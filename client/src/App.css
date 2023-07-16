@@ -1,0 +1,47 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+.contentWrapper {
+  width: 800px;
+  height: 500px;
+  background: #fff;
+  border-radius: 30px;
+  padding: 10px;
+}
+
+.logoText {
+  text-align: center;
+  font-size: 22px;
+}
+
+.topContentWrapper {
+  display: flex;
+}
+.inputStyle {
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.callBtn {
+  width: 100px;
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.videoWrapper {
+  display: flex;
+  margin-top: 20px;
+}
+
+.notifyContainer {
+  display: flex;
+}
